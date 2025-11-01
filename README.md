@@ -8,6 +8,8 @@ KojiPDFは、工事検査用のPDFファイル作成アプリです。選択し�
 KojiPDF is an application for creating PDF files for construction inspection. It merges all PDF files in a selected folder into a single PDF file, adding file names as bookmarks and folder names as parent bookmarks.
 By providing a structured PDF with bookmarks, it eliminates the time and effort spent repeatedly opening multiple PDF files, ensuring easy access to the required documents.
 
+Author/Reviewer/Approver = Hirotaka Arinobu
+
 主な機能 / Key Features
 
 - PDF結合 - 複数のPDFファイルを一つの文書に統合
